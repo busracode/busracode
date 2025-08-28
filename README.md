@@ -16,6 +16,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busracode&layout=compact&theme=radical" height="180"/>
 </p>
+---
+![GitHub Pacman](https://github-readme-activity-graph.vercel.app/graph?ubusracode&theme=github-compact&custom_title=Pacman&area=true&hide_border=true)
+
+
 
 ---
 
@@ -33,7 +37,6 @@
 
 ---
 
----
 ## ⚡GitHub Projects:
 🧮 [Calculator](https://github.com/busracode/Calculator)-A simple calculator website built using JavaScript, HTML and CSS.<br>
 ⏱️​ [Time-counter](https://github.com/busracode/cpp-time-counter)-Tracks and displays elapsed time in C++.
