@@ -35,7 +35,8 @@
 
 ---
 ## ⚡GitHub Projects:
-- [Calculator](https://github.com/busracode/Hesap-Makinesi)-A simple calculator website built using JavaScript, HTML and CSS.
+🧮 [Calculator](https://github.com/busracode/Calculator)-A simple calculator website built using JavaScript, HTML and CSS.<br>
+⏱️​ [Time-counter](https://github.com/busracode/cpp-time-counter)-Tracks and displays elapsed time in C++.
 
 ---
 
