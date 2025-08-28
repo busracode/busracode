@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busracode&layout=compact&theme=radical" height="180"/>
+  
 </p>
 ---
 
@@ -30,6 +31,9 @@
   ### Learning
   
   <img src="https://img.shields.io/badge/Python-FFE873?style=for-the-badge&logo=python&logoColor=white"/>
+  
+  [![My GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=busracode&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 ---
@@ -37,6 +41,9 @@
 ## ⚡GitHub Projects:
 🧮 [Calculator](https://github.com/busracode/Calculator)-A simple calculator website built using JavaScript, HTML and CSS.<br>
 ⏱️​ [Time-counter](https://github.com/busracode/cpp-time-counter)-Tracks and displays elapsed time in C++.
+
+
+
 
 ---
 
