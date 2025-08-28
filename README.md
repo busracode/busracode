@@ -1,7 +1,8 @@
 ## ✨ ABOUT ME:
 🏫I'm a 2nd-year Software Engineering student at Istinye University, Istanbul, Turkey <br>
 🔭I'm currently improving my skills in front-end development, while also working on university projects that strengthen my foundation in software engineering and problem-solving.<br>
-🚀I’m focused on creating meaningful projects and constantly learning new skills in coding and web development.
+🚀I’m focused on creating meaningful projects and constantly learning new skills in coding and web development.<br>
+🤝I'm participate in club activities to develop my teamwork skills.
 
 ---
 
