@@ -1,6 +1,6 @@
 ## ✨ ABOUT ME:
-🏫 Studying Software Engineering at Istinye University, Istanbul, Turkey
-🔭I'm currently improving my skills in front-end development, while also working on university projects that strengthen my foundation in software engineering and problem-solving.
+🏫 Studying Software Engineering at Istinye University, Istanbul, Turkey <<br>
+🔭I'm currently improving my skills in front-end development, while also working on university projects that strengthen my foundation in software engineering and problem-solving.<br>
 🚀I’m focused on creating meaningful projects and constantly learning new skills in coding and web development.
 
 ---
@@ -21,12 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<p align="center">
-  <!-- Frameworkler -->
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  
-</p>
-
 ---
 ## 📊 GitHub Stats:
 <p align="center">
@@ -35,9 +29,10 @@
 </p>
 
 ---
-## 🔥 GitHub Streak:
+## ⚡GitHub Streak:
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=busracode&theme=radical&hide_border=true&border_radius=5" />
+<img
+  src="htttps://streak-stats.demolab.com?user=busracode&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B&2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </p>
 
 ---
