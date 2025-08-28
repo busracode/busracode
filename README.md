@@ -29,13 +29,8 @@
 </p>
 
 ---
-## ⚡GitHub Streak:
-<p align="center">
-  <a href="https://github.com/busracode"
-    target="_blank">
-<img
-  src="htttps://streak-stats.demolab.com?user=busracode&theme=radical&hide_border=true&border_radius=5&date_format=M%20j%5B&2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
+## ⚡GitHub Projects:
+- [Calculator](https://github.com/busracode/Hesap-Makinesi)-A simple calculator website built using JavaScript, HTML and CSS.
 
 ---
 
