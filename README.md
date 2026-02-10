@@ -12,16 +12,10 @@
 
 ---
 ## 📊 GitHub Stats:
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical" alt="GitHub Stats" />
+[!(https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical)](https://github.com/busracode)
 
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busracode&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
-
+[!(https://github-readme-stats.vercel.app/api/top-langs/?username=busracode&layout=compact&theme=radical)](https://github.com/busracode)
 ---
 
 ## 💻 Tech Stack:
