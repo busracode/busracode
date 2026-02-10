@@ -12,10 +12,8 @@
 
 ---
 ## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=dark" />
 
-[!(https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical)](https://github.com/busracode)
-
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=busracode&layout=compact&theme=radical)](https://github.com/busracode)
 ---
 
 ## 💻 Tech Stack:
