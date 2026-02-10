@@ -39,7 +39,7 @@
 ---
 
 ## ⚡GitHub Projects:
-☀️💨⚡[Energy-Analysis](https://github.com/busracode/Energy-Analysis)-The program analyzes historical energy and weather data to predict Best and Worst-case production scenarios.
+☀️💨⚡[Energy-Analysis](https://github.com/busracode/Energy-Analysis)-The program analyzes historical energy and weather data to predict Best and Worst-case production scenarios.<br>
 🧮 [Calculator](https://github.com/busracode/Calculator)-A simple calculator website built using JavaScript, HTML and CSS.<br>
 ⏱️​ [Time-counter](https://github.com/busracode/cpp-time-counter)-Tracks and displays elapsed time in C++.
 
