@@ -12,7 +12,11 @@
 
 ---
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=github.com/busracode&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/busracode&layout=compact&theme=radical" />
+</p>
 
 ---
 
