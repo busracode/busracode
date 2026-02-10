@@ -11,12 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busraceylan10/)
 
 ---
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=github.com/busracode&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=github.com/busracode&layout=compact&theme=radical" />
-</p>
+![snake github contribution grid snake animation](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?target_branch=main&palette=github-dark)
 
 ---
 
