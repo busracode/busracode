@@ -10,10 +10,6 @@
 ### Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busraceylan10/)
 
----
-![snake github contribution grid snake animation](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?target_branch=main&palette=github-dark)
-
----
 
 ## 💻 Tech Stack:
 
