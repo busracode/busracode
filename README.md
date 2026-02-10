@@ -12,10 +12,15 @@
 
 ---
 ## 📊 GitHub Stats:
-<p align="center">
-  (https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical)
-  
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=busracode&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busracode&layout=compact&theme=radical" alt="Top Languages" />
+
+</div>
 
 ---
 
